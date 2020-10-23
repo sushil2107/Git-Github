@@ -1,0 +1,2 @@
+MultipleCommit1
+checking commit command
